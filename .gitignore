@@ -45,3 +45,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Pasta da versão do flutter sdk viculada ao projeto
+.fvm/flutter_sdk
